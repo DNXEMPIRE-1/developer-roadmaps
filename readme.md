@@ -1,6 +1,6 @@
 <p align="center">
   <img src="public/images/dnxwhite.png" height="auto">
-  <h2 align="center"><a href="https://linktr.ee/dnxempire">DNX EMPIRE</a></h2>
+  <h2 align="center"><a href="https://linktr.ee/dnxempire">DNX EMPIRE Roadmaps </a></h2>
   <p align="center">Community driven roadmaps, articles and resources for developers<p>
   <p align="center">
     <a href="https://roadmap.sh/roadmaps">
