@@ -1,0 +1,17 @@
+---
+import { RoadmapsPage } from '../components/Roadmaps/RoadmapsPage';
+import { RoadmapsPageHeader } from '../components/Roadmaps/RoadmapsPageHeader';
+import GridItem from '../components/GridItem.astro';
+import SimplePageHeader from '../components/SimplePageHeader.astro';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getRoadmapsByTag } from '../lib/roadmap';
+---
+
+<BaseLayout
+  title='Developer Roadmaps'
+  description={'Step by step guides and paths to learn different tools or technologies'}
+  permalink={'/roadmaps'}
+>
+  <RoadmapsPageHeader client:load />
+  <RoadmapsPage client:load />
+</BaseLayout>
