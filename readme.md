@@ -120,10 +120,4 @@ git clone --depth=1 https://github.com/DNXEMPIRE-1/developer-roadmaps
 - Discuss ideas in issues
 - Spread the word
 
-## Thanks to all contributors ❤
 
- 
-
-## License
-
-Have a look at the [license file](./license) for details
