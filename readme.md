@@ -11,7 +11,7 @@
 
 Roadmaps are now interactive, you can click the nodes to read more about the topics.
 
-### [View all Roadmaps](https://roadmap.sh) &nbsp;&middot;&nbsp; [Best Practices](https://roadmap.sh/best-practices) &nbsp;&middot;&nbsp; [Questions](https://roadmap.sh/questions)
+### [View all Roadmaps](https://roadmap.sh) &nbsp;&middot;&nbsp; [Best Practices](https://roadmap.sh/best-practices) &nbsp;&middot;&nbsp; [Questions](https://roadmap.sh/questions)  [Free Courses](https://www.coursera.org/)
 
 ![](https://i.imgur.com/waxVImv.png)
 
@@ -77,6 +77,22 @@ There are also interactive best practices:
 - [JavaScript Questions](https://roadmap.sh/questions/javascript)
 - [Node.js Questions](https://roadmap.sh/questions/nodejs)
 - [React Questions](https://roadmap.sh/questions/react)
+
+..Free Courses to help you test, rate and get Certifications
+
+
+- [Software Engineering](https://www.coursera.org/learn/software-engineering-modeling-software-systems-using-uml/)
+- [IBM-data-science](https://www.coursera.org/learn/python-for-applied-data-science-ai)
+- [Wordpress](https://www.coursera.org/projects/build-free-website-wordpress)
+- [Cybersecurity](https://www.coursera.org/learn/cybersecurity-for-everyone)
+- [AWSs](https://aws.amazon.com/training/?gclid=Cj0KCQjw0_WyBhDMARIsAL1Vz8scE9xyTBK1xaGuvDStyllzDvu5TcwGpXQaM0UaP5nYHY263TtQ0cEaAkcgEALw_wcB&trk=00263588-f176-42f6-954c-233bb3089c14&sc_channel=ps&ef_id=Cj0KCQjw0_WyBhDMARIsAL1Vz8scE9xyTBK1xaGuvDStyllzDvu5TcwGpXQaM0UaP5nYHY263TtQ0cEaAkcgEALw_wcB:G:s&s_kwcid=AL!4422!3!653412012645!p!!g!!it%20courses!19926465035!149165286153)
+- [Comp-TIA](https://alison.com/course/comptia-a-1000-part-1#google_vignette)
+- [Cybersecurity](https://www.oxfordhomestudy.com/courses/cyber-security-courses/free-cyber-security-courses)
+- [Full-Stack](https://www.classcentral.com/course/fullstackopen-deep-dive-into-modern-web-development-66418)
+- [Web-Design](https://www.classcentral.com/course/freecodecamp-responsive-web-design-34059)
+- [Front-End](https://www.classcentral.com/course/freecodecamp-front-end-libraries-34061)
+- [Advanced-SQL](https://www.classcentral.com/course/advanced-sql-74255)
+- [C++](https://www.classcentral.com/course/saylor-academy-65-cs107-c-programming-99526)
 
 ![](https://i.imgur.com/waxVImv.png)
 
